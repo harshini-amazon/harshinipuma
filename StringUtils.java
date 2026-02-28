@@ -1,0 +1,3 @@
+this file contains the string related functions...
+
+adding thi sline in dev branch
